@@ -1558,7 +1558,19 @@
   "seq": 43,
   "prev": "d16425ee31b4d6a4bd77",
   "h": "bad62d276cc192528a6c",
-  "tx": 1792465200000
+  "tx": 1792465200000,
+  "bm": {
+   "e": 0.00000408,
+   "h": "SL",
+   "R": -1,
+   "tx": 1792029600000
+  },
+  "bi": {
+   "e": 0.00000408,
+   "h": "SL",
+   "R": -1,
+   "tx": 1792497600000
+  }
  },
  {
   "id": "2026-10-15|Aturan Eliz|ZRO",
@@ -1828,7 +1840,19 @@
   "seq": 53,
   "prev": "c71ca330c00ec27861cf",
   "h": "f22e678c0d2d0257f8ac",
-  "tx": 1792170000000
+  "tx": 1792170000000,
+  "bm": {
+   "e": 85.72,
+   "h": "TP",
+   "R": 2,
+   "tx": 1792494000000
+  },
+  "bi": {
+   "e": 85.72,
+   "h": "SL",
+   "R": -1,
+   "tx": 1792170000000
+  }
  },
  {
   "id": "2026-10-16|Aturan Eliz|WAL",
@@ -2444,13 +2468,26 @@
   "keyakinan": "",
   "alasan": "sweep Monday High lalu reclaim, Wolf: breakout trendline gagal",
   "alert": "",
-  "hasil": "menunggu",
-  "R": "",
+  "hasil": "TP",
+  "R": 2,
   "engine": "0537067ed55fc5be",
   "fwd": 1,
   "seq": 77,
   "prev": "a273b2f2ad086b4425ab",
-  "h": "e3a0a5d7650aa7477eb4"
+  "h": "e3a0a5d7650aa7477eb4",
+  "tx": 1792501200000,
+  "bm": {
+   "e": 0.1898,
+   "h": "TP",
+   "R": 2,
+   "tx": 1792270800000
+  },
+  "bi": {
+   "e": 0.1898,
+   "h": "SL",
+   "R": -1,
+   "tx": 1792242000000
+  }
  },
  {
   "id": "2026-10-17|Aturan Eliz|BTC",
@@ -3143,13 +3180,14 @@
   "keyakinan": "",
   "alasan": "Wolf bullish: breakdown trendline gagal, searah tren",
   "alert": "",
-  "hasil": "menunggu",
-  "R": "",
+  "hasil": "TP",
+  "R": 2,
   "engine": "0537067ed55fc5be",
   "fwd": 1,
   "seq": 105,
   "prev": "45561ca4a2e5f614c273",
-  "h": "018e5b0d56d2f9f8888a"
+  "h": "018e5b0d56d2f9f8888a",
+  "tx": 1792504800000
  },
  {
   "id": "2026-10-20|Aturan Eliz|INJ",
