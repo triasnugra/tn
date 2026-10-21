@@ -2448,13 +2448,26 @@
   "keyakinan": "",
   "alasan": "sweep Monday High lalu reclaim, Wolf: breakout trendline gagal, searah tren",
   "alert": "",
-  "hasil": "menunggu",
-  "R": "",
+  "hasil": "SL",
+  "R": -1,
   "engine": "0537067ed55fc5be",
   "fwd": 1,
   "seq": 70,
   "prev": "9953493969d5316132e5",
-  "h": "e0846163295b5bdfd4a3"
+  "h": "e0846163295b5bdfd4a3",
+  "tx": 1792591200000,
+  "bm": {
+   "e": 82.41,
+   "h": "SL",
+   "R": -1,
+   "tx": 1792389600000
+  },
+  "bi": {
+   "e": 82.41,
+   "h": "TP",
+   "R": 2,
+   "tx": 1792587600000
+  }
  },
  {
   "id": "2026-10-17|Aturan Eliz|APT",
@@ -3393,13 +3406,14 @@
   "keyakinan": "",
   "alasan": "Wolf: breakout trendline gagal",
   "alert": "",
-  "hasil": "menunggu",
-  "R": "",
+  "hasil": "SL",
+  "R": -1,
   "engine": "0537067ed55fc5be",
   "fwd": 1,
   "seq": 107,
   "prev": "673debd63be8214c0679",
-  "h": "8c991fd2ad372c5795b0"
+  "h": "8c991fd2ad372c5795b0",
+  "tx": 1792591200000
  },
  {
   "id": "2026-10-20|Aturan Eliz|SNDKB",
