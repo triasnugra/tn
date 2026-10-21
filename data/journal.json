@@ -3301,13 +3301,14 @@
   "keyakinan": "",
   "alasan": "Wolf: breakout trendline gagal",
   "alert": "Senin: Monday range sedang terbentuk, harga cenderung kotor. Tunggu. Monday Low/High jadi level kunci minggu ini.",
-  "hasil": "menunggu",
-  "R": "",
+  "hasil": "SL",
+  "R": -1,
   "engine": "0537067ed55fc5be",
   "fwd": 1,
   "seq": 103,
   "prev": "840014c4ce0b8793dd57",
-  "h": "83cd386eb80cb25ecfe6"
+  "h": "83cd386eb80cb25ecfe6",
+  "tx": 1792594800000
  },
  {
   "id": "2026-10-20|Aturan Eliz|DOT",
@@ -3798,13 +3799,26 @@
   "keyakinan": "",
   "alasan": "Fib 0.75 tren turun, searah tren",
   "alert": "",
-  "hasil": "menunggu",
-  "R": "",
+  "hasil": "SL",
+  "R": -1,
   "engine": "0537067ed55fc5be",
   "fwd": 1,
   "seq": 124,
   "prev": "6a571f3af70cc4a99793",
-  "h": "fa2f49689ad4eb22f635"
+  "h": "fa2f49689ad4eb22f635",
+  "tx": 1792598400000,
+  "bm": {
+   "e": 0.01021,
+   "h": "SL",
+   "R": -1,
+   "tx": 1792598400000
+  },
+  "bi": {
+   "e": 0.01021,
+   "h": "SL",
+   "R": -1,
+   "tx": 1792580400000
+  }
  },
  {
   "id": "2026-10-21|Aturan Eliz|BTC",
@@ -3913,13 +3927,14 @@
   "keyakinan": "",
   "alasan": "sweep Monday High lalu reclaim",
   "alert": "",
-  "hasil": "menunggu",
-  "R": "",
+  "hasil": "SL",
+  "R": -1,
   "engine": "0537067ed55fc5be",
   "fwd": 1,
   "seq": 129,
   "prev": "f6c00f132533fc2a7357",
-  "h": "d484a95d3f423ccaf706"
+  "h": "d484a95d3f423ccaf706",
+  "tx": 1792605600000
  },
  {
   "id": "2026-10-21|Aturan Eliz|SUI",
