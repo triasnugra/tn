@@ -1364,13 +1364,26 @@
   "keyakinan": "",
   "alasan": "Double Deviation: sweep ke-2 lebih dangkal, tekanan beli melemah, RSI divergence, searah tren",
   "alert": "",
-  "hasil": "menunggu",
-  "R": "",
+  "hasil": "tidak terisi",
+  "R": 0,
   "engine": "0537067ed55fc5be",
   "fwd": 1,
   "seq": 31,
   "prev": "4c697c3508963fc11491",
-  "h": "74214a8d3899f122c53b"
+  "h": "74214a8d3899f122c53b",
+  "tx": 1792561093847,
+  "bm": {
+   "e": 0.2157,
+   "h": "TP",
+   "R": 2,
+   "tx": 1792000800000
+  },
+  "bi": {
+   "e": 0.2157,
+   "h": "SL",
+   "R": -1,
+   "tx": 1791982800000
+  }
  },
  {
   "id": "2026-10-14|Aturan Eliz|HBAR",
@@ -3328,7 +3341,19 @@
   "seq": 105,
   "prev": "45561ca4a2e5f614c273",
   "h": "018e5b0d56d2f9f8888a",
-  "tx": 1792504800000
+  "tx": 1792504800000,
+  "bm": {
+   "e": 4.808,
+   "h": "TP",
+   "R": 2,
+   "tx": 1792566000000
+  },
+  "bi": {
+   "e": 4.808,
+   "h": "SL",
+   "R": -1,
+   "tx": 1792504800000
+  }
  },
  {
   "id": "2026-10-20|Aturan Eliz|INJ",
