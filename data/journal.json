@@ -2706,13 +2706,14 @@
   "keyakinan": "",
   "alasan": "sweep Monday Low lalu reclaim, RSI divergence",
   "alert": "",
-  "hasil": "menunggu",
-  "R": "",
+  "hasil": "SL",
+  "R": -1,
   "engine": "0537067ed55fc5be",
   "fwd": 1,
   "seq": 75,
   "prev": "e713c768dc19bbc232f4",
-  "h": "30fb7d982c7a922c465a"
+  "h": "30fb7d982c7a922c465a",
+  "tx": 1792695600000
  },
  {
   "id": "2026-10-17|Aturan Eliz|ZRO",
