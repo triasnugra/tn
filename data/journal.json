@@ -3673,13 +3673,26 @@
   "keyakinan": "",
   "alasan": "sweep Monday High lalu reclaim, searah tren",
   "alert": "",
-  "hasil": "menunggu",
-  "R": "",
+  "hasil": "TP",
+  "R": 2,
   "engine": "0537067ed55fc5be",
   "fwd": 1,
   "seq": 114,
   "prev": "813a33b7df1f3d5d6e05",
-  "h": "d437e1e344b17d3d0162"
+  "h": "d437e1e344b17d3d0162",
+  "tx": 1792656000000,
+  "bm": {
+   "e": 1409.53,
+   "h": "TP",
+   "R": 2,
+   "tx": 1792656000000
+  },
+  "bi": {
+   "e": 1409.53,
+   "h": "SL",
+   "R": -1,
+   "tx": 1792587600000
+  }
  },
  {
   "id": "2026-10-21|Aturan Eliz|SPCXB",
