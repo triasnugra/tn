@@ -2009,13 +2009,26 @@
   "keyakinan": "",
   "alasan": "sweep Monday High lalu reclaim, RSI divergence, searah tren",
   "alert": "",
-  "hasil": "menunggu",
-  "R": "",
+  "hasil": "TP",
+  "R": 2,
   "engine": "0537067ed55fc5be",
   "fwd": 1,
   "seq": 50,
   "prev": "7607eb0333472d984c35",
-  "h": "7b73bedf4b2c9ad30425"
+  "h": "7b73bedf4b2c9ad30425",
+  "tx": 1792670400000,
+  "bm": {
+   "e": 0.01742,
+   "h": "TP",
+   "R": 2,
+   "tx": 1792652400000
+  },
+  "bi": {
+   "e": 0.01742,
+   "h": "SL",
+   "R": -1,
+   "tx": 1792252800000
+  }
  },
  {
   "id": "2026-10-16|Aturan Eliz|NEAR",
@@ -2888,7 +2901,19 @@
   "seq": 82,
   "prev": "49078b1d243449b4e728",
   "h": "050fef5bf703054cc50a",
-  "tx": 1792350000000
+  "tx": 1792350000000,
+  "bm": {
+   "e": 1.1561,
+   "h": "SL",
+   "R": -1,
+   "tx": 1792270800000
+  },
+  "bi": {
+   "e": 1.1561,
+   "h": "TP",
+   "R": 2,
+   "tx": 1792674000000
+  }
  },
  {
   "id": "2026-10-18|Aturan Eliz|ALT",
