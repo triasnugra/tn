@@ -4073,13 +4073,26 @@
   "keyakinan": "",
   "alasan": "sweep Monday Low lalu reclaim, searah tren",
   "alert": "",
-  "hasil": "menunggu",
-  "R": "",
+  "hasil": "SL",
+  "R": -1,
   "engine": "0537067ed55fc5be",
   "fwd": 1,
   "seq": 122,
   "prev": "5a15b90c309cf8874953",
-  "h": "5466fa452d5a5a75f815"
+  "h": "5466fa452d5a5a75f815",
+  "tx": 1792760400000,
+  "bm": {
+   "e": 196.3,
+   "h": "SL",
+   "R": -1,
+   "tx": 1792695600000
+  },
+  "bi": {
+   "e": 196.3,
+   "h": "SL",
+   "R": -1,
+   "tx": 1792605600000
+  }
  },
  {
   "id": "2026-10-21|Aturan Eliz|HBAR",
@@ -4628,13 +4641,26 @@
   "keyakinan": "",
   "alasan": "sweep Monday Low lalu reclaim, searah tren",
   "alert": "",
-  "hasil": "menunggu",
-  "R": "",
+  "hasil": "SL",
+  "R": -1,
   "engine": "0537067ed55fc5be",
   "fwd": 1,
   "seq": 145,
   "prev": "c3249b324ae2eb205d13",
-  "h": "d9ac383d1c8319727a5a"
+  "h": "d9ac383d1c8319727a5a",
+  "tx": 1792760400000,
+  "bm": {
+   "e": 205.85,
+   "h": "SL",
+   "R": -1,
+   "tx": 1792645200000
+  },
+  "bi": {
+   "e": 205.85,
+   "h": "TP",
+   "R": 2,
+   "tx": 1792695600000
+  }
  },
  {
   "id": "2026-10-22|Aturan Eliz|ARB",
