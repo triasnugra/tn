@@ -3493,13 +3493,14 @@
   "keyakinan": "",
   "alasan": "sweep Monday Low lalu reclaim, Wolf bullish: breakdown trendline gagal, searah tren",
   "alert": "Senin: Monday range sedang terbentuk, harga cenderung kotor. Tunggu. Monday Low/High jadi level kunci minggu ini.",
-  "hasil": "menunggu",
-  "R": "",
+  "hasil": "SL",
+  "R": -1,
   "engine": "0537067ed55fc5be",
   "fwd": 1,
   "seq": 93,
   "prev": "45bdfef14177a1f4bcf3",
-  "h": "817f4980eebcd454bf7c"
+  "h": "817f4980eebcd454bf7c",
+  "tx": 1792832400000
  },
  {
   "id": "2026-10-19|Aturan Eliz|UNI",
@@ -4007,13 +4008,26 @@
   "keyakinan": "",
   "alasan": "Double Deviation: sweep ke-2 lebih dangkal, tekanan beli melemah, sweep Monday High lalu reclaim, RSI divergence",
   "alert": "",
-  "hasil": "menunggu",
-  "R": "",
+  "hasil": "TP",
+  "R": 2,
   "engine": "0537067ed55fc5be",
   "fwd": 1,
   "seq": 113,
   "prev": "00e6b87005b4684365f5",
-  "h": "813a33b7df1f3d5d6e05"
+  "h": "813a33b7df1f3d5d6e05",
+  "tx": 1792832400000,
+  "bm": {
+   "e": 0.30147,
+   "h": "SL",
+   "R": -1,
+   "tx": 1792713600000
+  },
+  "bi": {
+   "e": 0.30147,
+   "h": "SL",
+   "R": -1,
+   "tx": 1792623600000
+  }
  },
  {
   "id": "2026-10-21|Aturan Eliz|SNDKB",
@@ -4142,7 +4156,19 @@
   "seq": 118,
   "prev": "4c18cc7befbfa2b71fdc",
   "h": "48cd21d92a286e875510",
-  "tx": 1792796400000
+  "tx": 1792796400000,
+  "bm": {
+   "e": 61.27,
+   "h": "SL",
+   "R": -1,
+   "tx": 1792681200000
+  },
+  "bi": {
+   "e": 61.27,
+   "h": "TP",
+   "R": 2,
+   "tx": 1792836000000
+  }
  },
  {
   "id": "2026-10-21|Aturan Eliz|LINK",
@@ -5253,7 +5279,19 @@
   "seq": 160,
   "prev": "f5b3d122ba3ec0ec72c5",
   "h": "99b3e4bc75c9e49959b6",
-  "tx": 1792792800000
+  "tx": 1792792800000,
+  "bm": {
+   "e": 5.008,
+   "h": "SL",
+   "R": -1,
+   "tx": 1792782000000
+  },
+  "bi": {
+   "e": 5.008,
+   "h": "TP",
+   "R": 2,
+   "tx": 1792832400000
+  }
  },
  {
   "id": "2026-10-23|Aturan Eliz|AI",
