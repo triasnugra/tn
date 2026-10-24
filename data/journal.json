@@ -3807,13 +3807,26 @@
   "keyakinan": "",
   "alasan": "sweep Monday Low lalu reclaim, Wolf bullish: breakdown trendline gagal, searah tren",
   "alert": "",
-  "hasil": "menunggu",
-  "R": "",
+  "hasil": "SL",
+  "R": -1,
   "engine": "0537067ed55fc5be",
   "fwd": 1,
   "seq": 111,
   "prev": "cb27679e750d6ad3f19d",
-  "h": "6dd9ed4850530be8e19d"
+  "h": "6dd9ed4850530be8e19d",
+  "tx": 1792792800000,
+  "bm": {
+   "e": 5.023,
+   "h": "SL",
+   "R": -1,
+   "tx": 1792782000000
+  },
+  "bi": {
+   "e": 5.023,
+   "h": "SL",
+   "R": -1,
+   "tx": 1792594800000
+  }
  },
  {
   "id": "2026-10-21|Aturan Eliz|AVAX",
@@ -3981,13 +3994,14 @@
   "keyakinan": "",
   "alasan": "sweep Monday Low lalu reclaim, OBV divergence",
   "alert": "",
-  "hasil": "menunggu",
-  "R": "",
+  "hasil": "SL",
+  "R": -1,
   "engine": "0537067ed55fc5be",
   "fwd": 1,
   "seq": 118,
   "prev": "4c18cc7befbfa2b71fdc",
-  "h": "48cd21d92a286e875510"
+  "h": "48cd21d92a286e875510",
+  "tx": 1792796400000
  },
  {
   "id": "2026-10-21|Aturan Eliz|LINK",
@@ -4109,13 +4123,14 @@
   "keyakinan": "",
   "alasan": "sweep Monday High lalu reclaim, searah tren",
   "alert": "",
-  "hasil": "menunggu",
-  "R": "",
+  "hasil": "TP",
+  "R": 2,
   "engine": "0537067ed55fc5be",
   "fwd": 1,
   "seq": 123,
   "prev": "5466fa452d5a5a75f815",
-  "h": "6a571f3af70cc4a99793"
+  "h": "6a571f3af70cc4a99793",
+  "tx": 1792792800000
  },
  {
   "id": "2026-10-21|Aturan Eliz|ALT",
@@ -4388,13 +4403,26 @@
   "keyakinan": "",
   "alasan": "sweep Monday Low lalu reclaim",
   "alert": "",
-  "hasil": "menunggu",
-  "R": "",
+  "hasil": "SL",
+  "R": -1,
   "engine": "0537067ed55fc5be",
   "fwd": 1,
   "seq": 134,
   "prev": "adf778cff84cc811b3a0",
-  "h": "dac27260b0f9716a2532"
+  "h": "dac27260b0f9716a2532",
+  "tx": 1792792800000,
+  "bm": {
+   "e": 0.2229,
+   "h": "SL",
+   "R": -1,
+   "tx": 1792656000000
+  },
+  "bi": {
+   "e": 0.2229,
+   "h": "SL",
+   "R": -1,
+   "tx": 1792594800000
+  }
  },
  {
   "id": "2026-10-21|Aturan Eliz|ONDO",
@@ -4434,13 +4462,26 @@
   "keyakinan": "",
   "alasan": "sweep Monday Low lalu reclaim, Wolf bullish: breakdown trendline gagal, searah tren",
   "alert": "",
-  "hasil": "menunggu",
-  "R": "",
+  "hasil": "SL",
+  "R": -1,
   "engine": "0537067ed55fc5be",
   "fwd": 1,
   "seq": 136,
   "prev": "faa41ace09f5a4b0d1c3",
-  "h": "b5e81d281703ae7b24b8"
+  "h": "b5e81d281703ae7b24b8",
+  "tx": 1792792800000,
+  "bm": {
+   "e": 5.303,
+   "h": "SL",
+   "R": -1,
+   "tx": 1792645200000
+  },
+  "bi": {
+   "e": 5.303,
+   "h": "TP",
+   "R": 2,
+   "tx": 1792782000000
+  }
  },
  {
   "id": "2026-10-22|Aturan Eliz|TRX",
@@ -4700,13 +4741,26 @@
   "keyakinan": "",
   "alasan": "sweep Monday Low lalu reclaim, OBV divergence",
   "alert": "",
-  "hasil": "menunggu",
-  "R": "",
+  "hasil": "SL",
+  "R": -1,
   "engine": "0537067ed55fc5be",
   "fwd": 1,
   "seq": 147,
   "prev": "705a5428904971b280bd",
-  "h": "df569badd44913d0f935"
+  "h": "df569badd44913d0f935",
+  "tx": 1792796400000,
+  "bm": {
+   "e": 61.79,
+   "h": "SL",
+   "R": -1,
+   "tx": 1792659600000
+  },
+  "bi": {
+   "e": 61.79,
+   "h": "TP",
+   "R": 2,
+   "tx": 1792792800000
+  }
  },
  {
   "id": "2026-10-22|Aturan Eliz|MSTRB",
@@ -4861,13 +4915,26 @@
   "keyakinan": "",
   "alasan": "sweep Monday High lalu reclaim",
   "alert": "",
-  "hasil": "menunggu",
-  "R": "",
+  "hasil": "TP",
+  "R": 2,
   "engine": "0537067ed55fc5be",
   "fwd": 1,
   "seq": 154,
   "prev": "dee7e92565018628b31f",
-  "h": "f40b1ee60f8e070bc557"
+  "h": "f40b1ee60f8e070bc557",
+  "tx": 1792792800000,
+  "bm": {
+   "e": 7.55,
+   "h": "TP",
+   "R": 2,
+   "tx": 1792792800000
+  },
+  "bi": {
+   "e": 7.55,
+   "h": "SL",
+   "R": -1,
+   "tx": 1792638000000
+  }
  },
  {
   "id": "2026-10-22|Aturan Eliz|SUI",
@@ -4953,13 +5020,26 @@
   "keyakinan": "",
   "alasan": "sweep Monday Low lalu reclaim",
   "alert": "",
-  "hasil": "menunggu",
-  "R": "",
+  "hasil": "SL",
+  "R": -1,
   "engine": "0537067ed55fc5be",
   "fwd": 1,
   "seq": 158,
   "prev": "393170680b4d1eed6dd7",
-  "h": "ea63a3ae1226e7a0ccc7"
+  "h": "ea63a3ae1226e7a0ccc7",
+  "tx": 1792792800000,
+  "bm": {
+   "e": 0.2262,
+   "h": "SL",
+   "R": -1,
+   "tx": 1792638000000
+  },
+  "bi": {
+   "e": 0.2262,
+   "h": "TP",
+   "R": 2,
+   "tx": 1792681200000
+  }
  },
  {
   "id": "2026-10-22|Aturan Eliz|ONDO",
@@ -4999,13 +5079,14 @@
   "keyakinan": "",
   "alasan": "sweep Monday Low lalu reclaim, Wolf bullish: breakdown trendline gagal, searah tren",
   "alert": "",
-  "hasil": "menunggu",
-  "R": "",
+  "hasil": "SL",
+  "R": -1,
   "engine": "0537067ed55fc5be",
   "fwd": 1,
   "seq": 160,
   "prev": "f5b3d122ba3ec0ec72c5",
-  "h": "99b3e4bc75c9e49959b6"
+  "h": "99b3e4bc75c9e49959b6",
+  "tx": 1792792800000
  },
  {
   "id": "2026-10-23|Aturan Eliz|AI",
@@ -5229,13 +5310,26 @@
   "keyakinan": "",
   "alasan": "Fib 0.75 tren turun, searah tren",
   "alert": "",
-  "hasil": "menunggu",
-  "R": "",
+  "hasil": "TP",
+  "R": 2,
   "engine": "0537067ed55fc5be",
   "fwd": 1,
   "seq": 170,
   "prev": "1a0f7f93fce4fbddde19",
-  "h": "5fa40b67748fa8a153e2"
+  "h": "5fa40b67748fa8a153e2",
+  "tx": 1792792800000,
+  "bm": {
+   "e": 0.5599,
+   "h": "TP",
+   "R": 2,
+   "tx": 1792792800000
+  },
+  "bi": {
+   "e": 0.5599,
+   "h": "SL",
+   "R": -1,
+   "tx": 1792760400000
+  }
  },
  {
   "id": "2026-10-23|Aturan Eliz|DOGE",
