@@ -3272,13 +3272,26 @@
   "keyakinan": "",
   "alasan": "Double Deviation: sweep ke-2 lebih dangkal, tekanan beli melemah, sweep Monday High lalu reclaim, RSI divergence, searah tren",
   "alert": "Menjelang penutupan weekly (Senin 00:00 UTC).",
-  "hasil": "menunggu",
-  "R": "",
+  "hasil": "tidak terisi",
+  "R": 0,
   "engine": "0537067ed55fc5be",
   "fwd": 1,
   "seq": 84,
   "prev": "9de559cb3f66ba45fdae",
-  "h": "f913e0ca71b870e89ba6"
+  "h": "f913e0ca71b870e89ba6",
+  "tx": 1792900367033,
+  "bm": {
+   "e": 0.06437,
+   "h": "SL",
+   "R": -1,
+   "tx": 1792303200000
+  },
+  "bi": {
+   "e": 0.06437,
+   "h": "SL",
+   "R": -1,
+   "tx": 1792310400000
+  }
  },
  {
   "id": "2026-10-18|Aturan Eliz|UNI",
@@ -3331,13 +3344,26 @@
   "keyakinan": "",
   "alasan": "sweep Monday Low lalu reclaim, Fib 0.75 tren naik, searah tren",
   "alert": "Menjelang penutupan weekly (Senin 00:00 UTC).",
-  "hasil": "menunggu",
-  "R": "",
+  "hasil": "kedaluwarsa",
+  "R": -0.01,
   "engine": "0537067ed55fc5be",
   "fwd": 1,
   "seq": 86,
   "prev": "1c2c03279294a5de5fb4",
-  "h": "d7d912aa24027f466410"
+  "h": "d7d912aa24027f466410",
+  "tx": 1792900367033,
+  "bm": {
+   "e": 0.3334,
+   "h": "kedaluwarsa",
+   "R": -0.446,
+   "tx": 1792900367033
+  },
+  "bi": {
+   "e": 0.3334,
+   "h": "kedaluwarsa",
+   "R": 0.446,
+   "tx": 1792900367033
+  }
  },
  {
   "id": "2026-10-18|Aturan Eliz|TIA",
@@ -3354,13 +3380,26 @@
   "keyakinan": "",
   "alasan": "sweep Monday Low lalu reclaim, breakout ber-close, retest",
   "alert": "Menjelang penutupan weekly (Senin 00:00 UTC).",
-  "hasil": "menunggu",
-  "R": "",
+  "hasil": "kedaluwarsa",
+  "R": 0.15,
   "engine": "0537067ed55fc5be",
   "fwd": 1,
   "seq": 87,
   "prev": "d7d912aa24027f466410",
-  "h": "02d498eeece0d4d2a45b"
+  "h": "02d498eeece0d4d2a45b",
+  "tx": 1792900367033,
+  "bm": {
+   "e": 0.6368,
+   "h": "SL",
+   "R": -1,
+   "tx": 1792332000000
+  },
+  "bi": {
+   "e": 0.6368,
+   "h": "SL",
+   "R": -1,
+   "tx": 1792314000000
+  }
  },
  {
   "id": "2026-10-18|Aturan Eliz|INJ",
@@ -3377,13 +3416,26 @@
   "keyakinan": "",
   "alasan": "deviasi atas gagal bertahan, RSI divergence",
   "alert": "Menjelang penutupan weekly (Senin 00:00 UTC).",
-  "hasil": "menunggu",
-  "R": "",
+  "hasil": "kedaluwarsa",
+  "R": 1.35,
   "engine": "0537067ed55fc5be",
   "fwd": 1,
   "seq": 88,
   "prev": "02d498eeece0d4d2a45b",
-  "h": "146a53380a6c6e927671"
+  "h": "146a53380a6c6e927671",
+  "tx": 1792900367033,
+  "bm": {
+   "e": 8.701,
+   "h": "kedaluwarsa",
+   "R": 1.371,
+   "tx": 1792900367033
+  },
+  "bi": {
+   "e": 8.701,
+   "h": "SL",
+   "R": -1,
+   "tx": 1792350000000
+  }
  },
  {
   "id": "2026-10-18|Aturan Eliz|MUB",
@@ -3400,13 +3452,26 @@
   "keyakinan": "",
   "alasan": "breakdown ber-close, retest, searah tren",
   "alert": "Menjelang penutupan weekly (Senin 00:00 UTC).",
-  "hasil": "menunggu",
-  "R": "",
+  "hasil": "kedaluwarsa",
+  "R": 0.01,
   "engine": "0537067ed55fc5be",
   "fwd": 1,
   "seq": 89,
   "prev": "146a53380a6c6e927671",
-  "h": "119b92fa4e5ea062a03a"
+  "h": "119b92fa4e5ea062a03a",
+  "tx": 1792900367033,
+  "bm": {
+   "e": 864.6,
+   "h": "kedaluwarsa",
+   "R": -0.24,
+   "tx": 1792900367033
+  },
+  "bi": {
+   "e": 864.6,
+   "h": "kedaluwarsa",
+   "R": 0.24,
+   "tx": 1792900367033
+  }
  },
  {
   "id": "2026-10-18|Aturan Eliz|BTC",
@@ -3423,13 +3488,26 @@
   "keyakinan": "",
   "alasan": "Wolf: breakout trendline gagal",
   "alert": "Menjelang penutupan weekly (Senin 00:00 UTC).",
-  "hasil": "menunggu",
-  "R": "",
+  "hasil": "kedaluwarsa",
+  "R": 0.69,
   "engine": "0537067ed55fc5be",
   "fwd": 1,
   "seq": 90,
   "prev": "119b92fa4e5ea062a03a",
-  "h": "8daca3f5a7e58d60b53f"
+  "h": "8daca3f5a7e58d60b53f",
+  "tx": 1792900367033,
+  "bm": {
+   "e": 81984,
+   "h": "SL",
+   "R": -1,
+   "tx": 1792591200000
+  },
+  "bi": {
+   "e": 81984,
+   "h": "SL",
+   "R": -1,
+   "tx": 1792854000000
+  }
  },
  {
   "id": "2026-10-18|Aturan Eliz|AVA",
@@ -3446,13 +3524,26 @@
   "keyakinan": "",
   "alasan": "sweep Monday Low lalu reclaim",
   "alert": "Menjelang penutupan weekly (Senin 00:00 UTC).",
-  "hasil": "menunggu",
-  "R": "",
+  "hasil": "tidak terisi",
+  "R": 0,
   "engine": "0537067ed55fc5be",
   "fwd": 1,
   "seq": 91,
   "prev": "8daca3f5a7e58d60b53f",
-  "h": "e7a41be4ca0cd551e9bb"
+  "h": "e7a41be4ca0cd551e9bb",
+  "tx": 1792900367034,
+  "bm": {
+   "e": 0.4,
+   "h": "SL",
+   "R": -1,
+   "tx": 1792296000000
+  },
+  "bi": {
+   "e": 0.4,
+   "h": "SL",
+   "R": -1,
+   "tx": 1792296000000
+  }
  },
  {
   "id": "2026-10-18|Aturan Eliz|APT",
