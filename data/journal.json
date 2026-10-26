@@ -6385,13 +6385,26 @@
   "keyakinan": "",
   "alasan": "sweep Monday High lalu reclaim",
   "alert": "",
-  "hasil": "menunggu",
-  "R": "",
+  "hasil": "SL",
+  "R": -1,
   "engine": "0537067ed55fc5be",
   "fwd": 1,
   "seq": 191,
   "prev": "6d704863eff32a17fd54",
-  "h": "ed53595fdc38a59835fc"
+  "h": "ed53595fdc38a59835fc",
+  "tx": 1793012400000,
+  "bm": {
+   "e": 190.28,
+   "h": "SL",
+   "R": -1,
+   "tx": 1792951200000
+  },
+  "bi": {
+   "e": 190.28,
+   "h": "SL",
+   "R": -1,
+   "tx": 1792760400000
+  }
  },
  {
   "id": "2026-10-24|Aturan Eliz|WLD",
@@ -7098,13 +7111,26 @@
   "keyakinan": "",
   "alasan": "sweep Monday High lalu reclaim",
   "alert": "",
-  "hasil": "menunggu",
-  "R": "",
+  "hasil": "SL",
+  "R": -1,
   "engine": "0537067ed55fc5be",
   "fwd": 1,
   "seq": 222,
   "prev": "e144e0459195d265b541",
-  "h": "3a0886d133f2e286bc52"
+  "h": "3a0886d133f2e286bc52",
+  "tx": 1793012400000,
+  "bm": {
+   "e": 182.34,
+   "h": "SL",
+   "R": -1,
+   "tx": 1792947600000
+  },
+  "bi": {
+   "e": 182.34,
+   "h": "TP",
+   "R": 2,
+   "tx": 1793005200000
+  }
  },
  {
   "id": "2026-10-26|Aturan Eliz|ERA",
@@ -7167,13 +7193,26 @@
   "keyakinan": "",
   "alasan": "deviasi atas gagal bertahan, Wolf: breakout trendline gagal, searah tren",
   "alert": "Senin: Monday range sedang terbentuk, harga cenderung kotor. Tunggu. Monday Low/High jadi level kunci minggu ini.",
-  "hasil": "menunggu",
-  "R": "",
+  "hasil": "SL",
+  "R": -1,
   "engine": "0537067ed55fc5be",
   "fwd": 1,
   "seq": 225,
   "prev": "b4d1c7deb4f810867977",
-  "h": "1fad85da5ba0a270a665"
+  "h": "1fad85da5ba0a270a665",
+  "tx": 1793022780000,
+  "bm": {
+   "e": 0.01304,
+   "h": "SL",
+   "R": -1,
+   "tx": 1792983240000
+  },
+  "bi": {
+   "e": 0.01304,
+   "h": "TP",
+   "R": 2,
+   "tx": 1792983600000
+  }
  },
  {
   "id": "2026-10-26|Aturan Eliz|AI",
@@ -7765,13 +7804,26 @@
   "keyakinan": "",
   "alasan": "sweep Monday High lalu reclaim",
   "alert": "Senin: Monday range sedang terbentuk, harga cenderung kotor. Tunggu. Monday Low/High jadi level kunci minggu ini.",
-  "hasil": "menunggu",
-  "R": "",
+  "hasil": "SL",
+  "R": -1,
   "engine": "0537067ed55fc5be",
   "fwd": 1,
   "seq": 251,
   "prev": "76764d9b5f144fd2753e",
-  "h": "afb73bd45975e4d5dd4a"
+  "h": "afb73bd45975e4d5dd4a",
+  "tx": 1793012400000,
+  "bm": {
+   "e": 190.63,
+   "h": "SL",
+   "R": -1,
+   "tx": 1793005200000
+  },
+  "bi": {
+   "e": 190.63,
+   "h": "TP",
+   "R": 2,
+   "tx": 1793005200000
+  }
  },
  {
   "id": "2026-10-26|Aturan Eliz|AAVE",
