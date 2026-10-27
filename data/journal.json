@@ -3992,13 +3992,26 @@
   "keyakinan": "",
   "alasan": "Double Deviation: sweep ke-2 lebih dangkal, tekanan beli melemah, Fib 0.75 tren turun, searah tren",
   "alert": "",
-  "hasil": "menunggu",
-  "R": "",
+  "hasil": "tidak terisi",
+  "R": 0,
   "engine": "0537067ed55fc5be",
   "fwd": 1,
   "seq": 104,
   "prev": "83cd386eb80cb25ecfe6",
-  "h": "45561ca4a2e5f614c273"
+  "h": "45561ca4a2e5f614c273",
+  "tx": 1793077475171,
+  "bm": {
+   "e": 1.144,
+   "h": "SL",
+   "R": -1,
+   "tx": 1792504800000
+  },
+  "bi": {
+   "e": 1.144,
+   "h": "SL",
+   "R": -1,
+   "tx": 1792656000000
+  }
  },
  {
   "id": "2026-10-20|Aturan Eliz|NEAR",
@@ -4051,13 +4064,26 @@
   "keyakinan": "",
   "alasan": "deviasi atas gagal bertahan, RSI divergence",
   "alert": "",
-  "hasil": "menunggu",
-  "R": "",
+  "hasil": "kedaluwarsa",
+  "R": 1.1,
   "engine": "0537067ed55fc5be",
   "fwd": 1,
   "seq": 106,
   "prev": "018e5b0d56d2f9f8888a",
-  "h": "673debd63be8214c0679"
+  "h": "673debd63be8214c0679",
+  "tx": 1793077475172,
+  "bm": {
+   "e": 8.541,
+   "h": "SL",
+   "R": -1,
+   "tx": 1792544400000
+  },
+  "bi": {
+   "e": 8.541,
+   "h": "SL",
+   "R": -1,
+   "tx": 1792764000000
+  }
  },
  {
   "id": "2026-10-20|Aturan Eliz|BTC",
@@ -4117,7 +4143,19 @@
   "seq": 108,
   "prev": "8c991fd2ad372c5795b0",
   "h": "7f102a4bdac3de5a5946",
-  "tx": 1792850400000
+  "tx": 1792850400000,
+  "bm": {
+   "e": 1350.31,
+   "h": "SL",
+   "R": -1,
+   "tx": 1792850400000
+  },
+  "bi": {
+   "e": 1350.31,
+   "h": "kedaluwarsa",
+   "R": 0.558,
+   "tx": 1793077475172
+  }
  },
  {
   "id": "2026-10-20|Aturan Eliz|MUB",
@@ -4134,13 +4172,26 @@
   "keyakinan": "",
   "alasan": "Three Tap: 2 sentuhan lalu manipulasi di bawah",
   "alert": "",
-  "hasil": "menunggu",
-  "R": "",
+  "hasil": "kedaluwarsa",
+  "R": 0.35,
   "engine": "0537067ed55fc5be",
   "fwd": 1,
   "seq": 109,
   "prev": "7f102a4bdac3de5a5946",
-  "h": "ee450173964c08ba3514"
+  "h": "ee450173964c08ba3514",
+  "tx": 1793077475172,
+  "bm": {
+   "e": 889.03,
+   "h": "kedaluwarsa",
+   "R": 0.343,
+   "tx": 1793077475172
+  },
+  "bi": {
+   "e": 889.03,
+   "h": "kedaluwarsa",
+   "R": -0.343,
+   "tx": 1793077475172
+  }
  },
  {
   "id": "2026-10-20|Aturan Eliz|ZRO",
@@ -4157,13 +4208,26 @@
   "keyakinan": "",
   "alasan": "Double Deviation: sweep ke-2 lebih dangkal, tekanan beli melemah",
   "alert": "",
-  "hasil": "menunggu",
-  "R": "",
+  "hasil": "tidak terisi",
+  "R": 0,
   "engine": "0537067ed55fc5be",
   "fwd": 1,
   "seq": 110,
   "prev": "ee450173964c08ba3514",
-  "h": "cb27679e750d6ad3f19d"
+  "h": "cb27679e750d6ad3f19d",
+  "tx": 1793077475172,
+  "bm": {
+   "e": 1.855,
+   "h": "SL",
+   "R": -1,
+   "tx": 1792490400000
+  },
+  "bi": {
+   "e": 1.855,
+   "h": "SL",
+   "R": -1,
+   "tx": 1792501200000
+  }
  },
  {
   "id": "2026-10-21|Aturan Eliz|NEAR",
