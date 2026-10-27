@@ -7102,13 +7102,26 @@
   "keyakinan": "",
   "alasan": "sweep Monday Low lalu reclaim, OBV divergence",
   "alert": "",
-  "hasil": "menunggu",
-  "R": "",
+  "hasil": "TP",
+  "R": 2,
   "engine": "0537067ed55fc5be",
   "fwd": 1,
   "seq": 216,
   "prev": "410bb5e8168bde4e96d8",
-  "h": "85aac1d806442f3dab79"
+  "h": "85aac1d806442f3dab79",
+  "tx": 1793116800000,
+  "bm": {
+   "e": 278.3,
+   "h": "SL",
+   "R": -1,
+   "tx": 1792854000000
+  },
+  "bi": {
+   "e": 278.3,
+   "h": "SL",
+   "R": -1,
+   "tx": 1793109600000
+  }
  },
  {
   "id": "2026-10-24|Aturan Eliz|BTC",
