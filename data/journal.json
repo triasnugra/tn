@@ -6561,13 +6561,14 @@
   "keyakinan": "",
   "alasan": "sweep Monday High lalu reclaim",
   "alert": "",
-  "hasil": "menunggu",
-  "R": "",
+  "hasil": "SL",
+  "R": -1,
   "engine": "0537067ed55fc5be",
   "fwd": 1,
   "seq": 188,
   "prev": "3c213a9e7186400cfc44",
-  "h": "7c5a50548f44f7264ead"
+  "h": "7c5a50548f44f7264ead",
+  "tx": 1793181600000
  },
  {
   "id": "2026-10-23|Aturan Eliz|TRX",
