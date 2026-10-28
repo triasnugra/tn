@@ -1,8 +1,8 @@
 # Forward test CryptoEliz
 
 - Mulai: 2026-10-14T00:39:16.289Z | agen: Aturan Eliz | mesin terkunci: 0537067ed55fc5be
-- Integritas jurnal: OK (264 baris tersegel, ujung rantai b9dcf3420113ced77217)
-- Tercatat sesuai protokol: 123 (selesai 82, menunggu 41, dilewati dedupe 141)
+- Integritas jurnal: OK (290 baris tersegel, ujung rantai 4bb2c051d90822c67399)
+- Tercatat sesuai protokol: 130 (selesai 82, menunggu 48, dilewati dedupe 160)
 
 ## Kemajuan menuju evaluasi
 
