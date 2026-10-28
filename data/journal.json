@@ -6782,13 +6782,26 @@
   "keyakinan": "",
   "alasan": "Double Deviation: sweep ke-2 lebih dangkal, tekanan beli melemah, RSI divergence",
   "alert": "",
-  "hasil": "menunggu",
-  "R": "",
+  "hasil": "SL",
+  "R": -1,
   "engine": "0537067ed55fc5be",
   "fwd": 1,
   "seq": 197,
   "prev": "0c78837ba35974d6da0d",
-  "h": "a9a2ecc1122fd6b75387"
+  "h": "a9a2ecc1122fd6b75387",
+  "tx": 1793217600000,
+  "bm": {
+   "e": 0.0000046,
+   "h": "TP",
+   "R": 2,
+   "tx": 1792850400000
+  },
+  "bi": {
+   "e": 0.0000046,
+   "h": "SL",
+   "R": -1,
+   "tx": 1792821600000
+  }
  },
  {
   "id": "2026-10-24|Aturan Eliz|XRP",
@@ -7767,13 +7780,26 @@
   "keyakinan": "",
   "alasan": "Double Deviation: sweep ke-2 lebih dangkal, tekanan beli melemah, searah tren",
   "alert": "Senin: Monday range sedang terbentuk, harga cenderung kotor. Tunggu. Monday Low/High jadi level kunci minggu ini.",
-  "hasil": "menunggu",
-  "R": "",
+  "hasil": "SL",
+  "R": -1,
   "engine": "0537067ed55fc5be",
   "fwd": 1,
   "seq": 237,
   "prev": "314065137e15063d1221",
-  "h": "3cffb9fe7ad14cc5ec52"
+  "h": "3cffb9fe7ad14cc5ec52",
+  "tx": 1793217600000,
+  "bm": {
+   "e": 0.00000425,
+   "h": "SL",
+   "R": -1,
+   "tx": 1792987200000
+  },
+  "bi": {
+   "e": 0.00000425,
+   "h": "TP",
+   "R": 2,
+   "tx": 1793116800000
+  }
  },
  {
   "id": "2026-10-26|Aturan Eliz|SNDKB",
@@ -8194,13 +8220,26 @@
   "keyakinan": "",
   "alasan": "Double Deviation: sweep ke-2 lebih dangkal, tekanan beli melemah, searah tren",
   "alert": "FOMC hari ini atau besok: berita memicu noise. Eliz tetap hanya trading bila ada trigger jelas.",
-  "hasil": "menunggu",
-  "R": "",
+  "hasil": "SL",
+  "R": -1,
   "engine": "0537067ed55fc5be",
   "fwd": 1,
   "seq": 255,
   "prev": "e5528526ec1f36af30fe",
-  "h": "5defc18e53d16019b3ff"
+  "h": "5defc18e53d16019b3ff",
+  "tx": 1793217600000,
+  "bm": {
+   "e": 0.00000432,
+   "h": "SL",
+   "R": -1,
+   "tx": 1793116800000
+  },
+  "bi": {
+   "e": 0.00000432,
+   "h": "TP",
+   "R": 2,
+   "tx": 1793142000000
+  }
  },
  {
   "id": "2026-10-27|Aturan Eliz|TRX",
@@ -8828,13 +8867,26 @@
   "keyakinan": "",
   "alasan": "Double Deviation: sweep ke-2 lebih dangkal, tekanan beli melemah",
   "alert": "FOMC hari ini atau besok: berita memicu noise. Eliz tetap hanya trading bila ada trigger jelas.",
-  "hasil": "menunggu",
-  "R": "",
+  "hasil": "SL",
+  "R": -1,
   "engine": "0537067ed55fc5be",
   "fwd": 1,
   "seq": 282,
   "prev": "633785272fbda48fa753",
-  "h": "216e9ef1e8cdb82a8539"
+  "h": "216e9ef1e8cdb82a8539",
+  "tx": 1793217600000,
+  "bm": {
+   "e": 0.00000488,
+   "h": "SL",
+   "R": -1,
+   "tx": 1793178000000
+  },
+  "bi": {
+   "e": 0.00000488,
+   "h": "SL",
+   "R": -1,
+   "tx": 1793167200000
+  }
  },
  {
   "id": "2026-10-28|Aturan Eliz|DOGE",
@@ -8874,13 +8926,26 @@
   "keyakinan": "",
   "alasan": "sweep Monday Low lalu reclaim",
   "alert": "FOMC hari ini atau besok: berita memicu noise. Eliz tetap hanya trading bila ada trigger jelas.",
-  "hasil": "menunggu",
-  "R": "",
+  "hasil": "SL",
+  "R": -1,
   "engine": "0537067ed55fc5be",
   "fwd": 1,
   "seq": 284,
   "prev": "84ad1ef8fe600b772b8b",
-  "h": "c9ae62a37dd2bcc6a34b"
+  "h": "c9ae62a37dd2bcc6a34b",
+  "tx": 1793203200000,
+  "bm": {
+   "e": 0.4404,
+   "h": "SL",
+   "R": -1,
+   "tx": 1793188800000
+  },
+  "bi": {
+   "e": 0.4404,
+   "h": "SL",
+   "R": -1,
+   "tx": 1793217600000
+  }
  },
  {
   "id": "2026-10-28|Aturan Eliz|UNI",
