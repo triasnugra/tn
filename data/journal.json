@@ -11488,12 +11488,25 @@
   "keyakinan": "",
   "alasan": "sweep Monday High lalu reclaim",
   "alert": "",
-  "hasil": "menunggu",
-  "R": "",
+  "hasil": "TP",
+  "R": 2,
   "engine": "0537067ed55fc5be",
   "fwd": 1,
   "seq": 345,
   "prev": "3bc3533d8e52dbd8cdb9",
-  "h": "c2589bf61d001c44086c"
+  "h": "c2589bf61d001c44086c",
+  "tx": 1793383200000,
+  "bm": {
+   "e": 1.531,
+   "h": "SL",
+   "R": -1,
+   "tx": 1793332800000
+  },
+  "bi": {
+   "e": 1.531,
+   "h": "TP",
+   "R": 2,
+   "tx": 1793332800000
+  }
  }
 ]
