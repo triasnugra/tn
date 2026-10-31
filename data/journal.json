@@ -11024,13 +11024,26 @@
   "keyakinan": "",
   "alasan": "sweep Monday Low lalu reclaim, breakout ber-close, retest, Wolf bullish: breakdown trendline gagal, searah tren",
   "alert": "",
-  "hasil": "menunggu",
-  "R": "",
+  "hasil": "SL",
+  "R": -1,
   "engine": "0537067ed55fc5be",
   "fwd": 1,
   "seq": 313,
   "prev": "0a78ddcaac0c7e9972ef",
-  "h": "d3013973ea71fb4d602c"
+  "h": "d3013973ea71fb4d602c",
+  "tx": 1793433600000,
+  "bm": {
+   "e": 0.3519,
+   "h": "SL",
+   "R": -1,
+   "tx": 1793336400000
+  },
+  "bi": {
+   "e": 0.3519,
+   "h": "TP",
+   "R": 2,
+   "tx": 1793340000000
+  }
  },
  {
   "id": "2026-10-30|Aturan Eliz|ETH",
