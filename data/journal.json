@@ -12545,12 +12545,25 @@
   "keyakinan": "",
   "alasan": "sweep Monday High lalu reclaim",
   "alert": "Hari terakhir bulan. Penutupan bulanan 00:00 UTC.",
-  "hasil": "menunggu",
-  "R": "",
+  "hasil": "SL",
+  "R": -1,
   "engine": "0537067ed55fc5be",
   "fwd": 1,
   "seq": 378,
   "prev": "bf93c9bc15d56035cca9",
-  "h": "a5b5e01df542861fe530"
+  "h": "a5b5e01df542861fe530",
+  "tx": 1793480400000,
+  "bm": {
+   "e": 1.712,
+   "h": "SL",
+   "R": -1,
+   "tx": 1793437200000
+  },
+  "bi": {
+   "e": 1.712,
+   "h": "TP",
+   "R": 2,
+   "tx": 1793458800000
+  }
  }
 ]
