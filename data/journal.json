@@ -23691,13 +23691,14 @@
   "keyakinan": "",
   "alasan": "deviasi bawah lalu recovery",
   "alert": "",
-  "hasil": "menunggu",
-  "R": "",
+  "hasil": "SL",
+  "R": -1,
   "engine": "0537067ed55fc5be",
   "fwd": 1,
   "seq": 671,
   "prev": "d9977236be2859e12e43",
-  "h": "a416f9782adc1b25e0f2"
+  "h": "a416f9782adc1b25e0f2",
+  "tx": 1795107600000
  },
  {
   "id": "2026-11-17|Aturan Eliz|TRX",
@@ -23836,7 +23837,19 @@
   "seq": 677,
   "prev": "e733e13dd4bf684b77ef",
   "h": "6b29c7076ba8bace0571",
-  "tx": 1795068000000
+  "tx": 1795068000000,
+  "bm": {
+   "e": 126.26,
+   "h": "SL",
+   "R": -1,
+   "tx": 1795010400000
+  },
+  "bi": {
+   "e": 126.26,
+   "h": "SL",
+   "R": -1,
+   "tx": 1795086000000
+  }
  },
  {
   "id": "2026-11-18|Aturan Eliz|NEAR",
@@ -23998,7 +24011,19 @@
   "seq": 684,
   "prev": "1f063e36c8211003985a",
   "h": "01d6af5f13e9f8cc27bb",
-  "tx": 1794999600000
+  "tx": 1794999600000,
+  "bm": {
+   "e": 0.1144,
+   "h": "SL",
+   "R": -1,
+   "tx": 1794999600000
+  },
+  "bi": {
+   "e": 0.1144,
+   "h": "TP",
+   "R": 2,
+   "tx": 1795100400000
+  }
  },
  {
   "id": "2026-11-18|Aturan Eliz|ADA",
@@ -24154,13 +24179,14 @@
   "keyakinan": "",
   "alasan": "sweep Monday Low lalu reclaim",
   "alert": "",
-  "hasil": "menunggu",
-  "R": "",
+  "hasil": "SL",
+  "R": -1,
   "engine": "0537067ed55fc5be",
   "fwd": 1,
   "seq": 691,
   "prev": "1a3bf19b2a1e2fe839a2",
-  "h": "f97aac997bb80d0aff24"
+  "h": "f97aac997bb80d0aff24",
+  "tx": 1795107600000
  },
  {
   "id": "2026-11-18|Aturan Eliz|ETH",
@@ -24207,7 +24233,19 @@
   "seq": 693,
   "prev": "a9e3b0ed169cd78840b4",
   "h": "5fe59b19ac417a4910d1",
-  "tx": 1795075200000
+  "tx": 1795075200000,
+  "bm": {
+   "e": 51.17,
+   "h": "SL",
+   "R": -1,
+   "tx": 1795010400000
+  },
+  "bi": {
+   "e": 51.17,
+   "h": "SL",
+   "R": -1,
+   "tx": 1795086000000
+  }
  },
  {
   "id": "2026-11-18|Aturan Eliz|TRX",
