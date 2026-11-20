@@ -23643,7 +23643,19 @@
   "seq": 667,
   "prev": "19d5897e9cdbe99a34ad",
   "h": "f1df17c8399830860fea",
-  "tx": 1795129200000
+  "tx": 1795129200000,
+  "bm": {
+   "e": 3859.18,
+   "h": "TP",
+   "R": 2,
+   "tx": 1795136400000
+  },
+  "bi": {
+   "e": 3859.18,
+   "h": "SL",
+   "R": -1,
+   "tx": 1795028400000
+  }
  },
  {
   "id": "2026-11-17|Aturan Eliz|ICP",
@@ -24523,13 +24535,14 @@
   "keyakinan": "",
   "alasan": "Double Deviation: sweep ke-2 lebih dangkal, tekanan jual melemah, sweep Monday Low lalu reclaim, OBV divergence, RSI divergence",
   "alert": "",
-  "hasil": "menunggu",
-  "R": "",
+  "hasil": "SL",
+  "R": -1,
   "engine": "0537067ed55fc5be",
   "fwd": 1,
   "seq": 702,
   "prev": "60ba8570415199b4efa8",
-  "h": "798cf1a753a9444894ae"
+  "h": "798cf1a753a9444894ae",
+  "tx": 1795147200000
  },
  {
   "id": "2026-11-19|Aturan Eliz|XRP",
