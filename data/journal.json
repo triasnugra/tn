@@ -26364,7 +26364,19 @@
   "seq": 731,
   "prev": "239cc43e74d1f4ad58d2",
   "h": "a6c498b5b871ba5b361a",
-  "tx": 1795532400000
+  "tx": 1795532400000,
+  "bm": {
+   "e": 136.94,
+   "h": "TP",
+   "R": 2,
+   "tx": 1795597200000
+  },
+  "bi": {
+   "e": 136.94,
+   "h": "SL",
+   "R": -1,
+   "tx": 1795179600000
+  }
  },
  {
   "id": "2026-11-20|Aturan Eliz|MUB",
@@ -27312,7 +27324,19 @@
   "seq": 762,
   "prev": "d933bde82eb034b40f48",
   "h": "afe039014c45d9f03995",
-  "tx": 1795532400000
+  "tx": 1795532400000,
+  "bm": {
+   "e": 128.1,
+   "h": "SL",
+   "R": -1,
+   "tx": 1795442400000
+  },
+  "bi": {
+   "e": 128.1,
+   "h": "SL",
+   "R": -1,
+   "tx": 1795611600000
+  }
  },
  {
   "id": "2026-11-21|Aturan Eliz|GOOGLB",
@@ -28482,7 +28506,19 @@
   "seq": 806,
   "prev": "9b9cfb596715697ec9bf",
   "h": "248f456349a4ccc9fbf6",
-  "tx": 1795525200000
+  "tx": 1795525200000,
+  "bm": {
+   "e": 6.192,
+   "h": "SL",
+   "R": -1,
+   "tx": 1795438800000
+  },
+  "bi": {
+   "e": 6.192,
+   "h": "SL",
+   "R": -1,
+   "tx": 1795608000000
+  }
  },
  {
   "id": "2026-11-23|Aturan Eliz|WLD",
@@ -28811,7 +28847,19 @@
   "seq": 818,
   "prev": "8565a1433d40e961e6a0",
   "h": "b9ba5ec72fec116abe68",
-  "tx": 1795575600000
+  "tx": 1795575600000,
+  "bm": {
+   "e": 628.4,
+   "h": "SL",
+   "R": -1,
+   "tx": 1795442400000
+  },
+  "bi": {
+   "e": 628.4,
+   "h": "SL",
+   "R": -1,
+   "tx": 1795611600000
+  }
  },
  {
   "id": "2026-11-23|Aturan Eliz|AIGENSYN",
@@ -28950,7 +28998,19 @@
   "seq": 824,
   "prev": "8d267ba017724d7e7bf7",
   "h": "95019642a9920d0c7517",
-  "tx": 1795532400000
+  "tx": 1795532400000,
+  "bm": {
+   "e": 3.006,
+   "h": "SL",
+   "R": -1,
+   "tx": 1795442400000
+  },
+  "bi": {
+   "e": 3.006,
+   "h": "SL",
+   "R": -1,
+   "tx": 1795611600000
+  }
  },
  {
   "id": "2026-11-23|Aturan Eliz|MMT",
@@ -29039,13 +29099,26 @@
   "keyakinan": "",
   "alasan": "sweep Monday Low lalu reclaim",
   "alert": "Senin: Monday range sedang terbentuk, harga cenderung kotor. Tunggu. Monday Low/High jadi level kunci minggu ini.",
-  "hasil": "menunggu",
-  "R": "",
+  "hasil": "SL",
+  "R": -1,
   "engine": "0537067ed55fc5be",
   "fwd": 1,
   "seq": 827,
   "prev": "ea580f728a51d5cdb639",
-  "h": "fc82d5e000325050ca58"
+  "h": "fc82d5e000325050ca58",
+  "tx": 1795615200000,
+  "bm": {
+   "e": 53.9,
+   "h": "TP",
+   "R": 2,
+   "tx": 1795442400000
+  },
+  "bi": {
+   "e": 53.9,
+   "h": "SL",
+   "R": -1,
+   "tx": 1795438800000
+  }
  },
  {
   "id": "2026-11-23|Aturan Eliz|PUMP",
@@ -29269,13 +29342,26 @@
   "keyakinan": "",
   "alasan": "deviasi bawah lalu recovery, RSI divergence",
   "alert": "",
-  "hasil": "menunggu",
-  "R": "",
+  "hasil": "SL",
+  "R": -1,
   "engine": "0537067ed55fc5be",
   "fwd": 1,
   "seq": 837,
   "prev": "af9716f1c95e70929dae",
-  "h": "37af488fb8b1028e7b2e"
+  "h": "37af488fb8b1028e7b2e",
+  "tx": 1795611600000,
+  "bm": {
+   "e": 706,
+   "h": "SL",
+   "R": -1,
+   "tx": 1795532400000
+  },
+  "bi": {
+   "e": 706,
+   "h": "TP",
+   "R": 2,
+   "tx": 1795611600000
+  }
  },
  {
   "id": "2026-11-24|Aturan Eliz|LINK",
@@ -29338,13 +29424,14 @@
   "keyakinan": "",
   "alasan": "deviasi bawah lalu recovery, RSI divergence",
   "alert": "",
-  "hasil": "menunggu",
-  "R": "",
+  "hasil": "SL",
+  "R": -1,
   "engine": "0537067ed55fc5be",
   "fwd": 1,
   "seq": 840,
   "prev": "9e385e58465981d0d171",
-  "h": "98254c553214a3d5d845"
+  "h": "98254c553214a3d5d845",
+  "tx": 1795611600000
  },
  {
   "id": "2026-11-24|Aturan Eliz|LTC",
@@ -29729,13 +29816,14 @@
   "keyakinan": "",
   "alasan": "Double Deviation: sweep ke-2 lebih dangkal, tekanan jual melemah, deviasi bawah lalu recovery",
   "alert": "",
-  "hasil": "menunggu",
-  "R": "",
+  "hasil": "SL",
+  "R": -1,
   "engine": "0537067ed55fc5be",
   "fwd": 1,
   "seq": 857,
   "prev": "2eae731b3a4868ae52e6",
-  "h": "c807ce34fd7315c04fe5"
+  "h": "c807ce34fd7315c04fe5",
+  "tx": 1795611600000
  },
  {
   "id": "2026-11-25|Aturan Eliz|NEAR",
@@ -29867,13 +29955,26 @@
   "keyakinan": "",
   "alasan": "Double Deviation: sweep ke-2 lebih dangkal, tekanan beli melemah, sweep Monday High lalu reclaim",
   "alert": "",
-  "hasil": "menunggu",
-  "R": "",
+  "hasil": "TP",
+  "R": 2,
   "engine": "0537067ed55fc5be",
   "fwd": 1,
   "seq": 863,
   "prev": "efb49f24bc71817e19b9",
-  "h": "e1c2720c736e8b299397"
+  "h": "e1c2720c736e8b299397",
+  "tx": 1795608000000,
+  "bm": {
+   "e": 0.2339,
+   "h": "TP",
+   "R": 2,
+   "tx": 1795593600000
+  },
+  "bi": {
+   "e": 0.2339,
+   "h": "SL",
+   "R": -1,
+   "tx": 1795586400000
+  }
  },
  {
   "id": "2026-11-25|Aturan Eliz|UNI",
@@ -29913,13 +30014,14 @@
   "keyakinan": "",
   "alasan": "Double Deviation: sweep ke-2 lebih dangkal, tekanan jual melemah, sweep Monday Low lalu reclaim",
   "alert": "",
-  "hasil": "menunggu",
-  "R": "",
+  "hasil": "SL",
+  "R": -1,
   "engine": "0537067ed55fc5be",
   "fwd": 1,
   "seq": 865,
   "prev": "cc39d34c8d8275d2bae1",
-  "h": "3d8805716df3626d620b"
+  "h": "3d8805716df3626d620b",
+  "tx": 1795604400000
  },
  {
   "id": "2026-11-25|Aturan Eliz|LINK",
@@ -30005,13 +30107,14 @@
   "keyakinan": "",
   "alasan": "Double Deviation: sweep ke-2 lebih dangkal, tekanan jual melemah, deviasi bawah lalu recovery",
   "alert": "",
-  "hasil": "menunggu",
-  "R": "",
+  "hasil": "SL",
+  "R": -1,
   "engine": "0537067ed55fc5be",
   "fwd": 1,
   "seq": 869,
   "prev": "854f344ebd842c989406",
-  "h": "7c96f05b277381ce4da3"
+  "h": "7c96f05b277381ce4da3",
+  "tx": 1795611600000
  },
  {
   "id": "2026-11-25|Aturan Eliz|LTC",
@@ -30051,13 +30154,14 @@
   "keyakinan": "",
   "alasan": "Double Deviation: sweep ke-2 lebih dangkal, tekanan jual melemah, deviasi bawah lalu recovery",
   "alert": "",
-  "hasil": "menunggu",
-  "R": "",
+  "hasil": "SL",
+  "R": -1,
   "engine": "0537067ed55fc5be",
   "fwd": 1,
   "seq": 871,
   "prev": "9fb5d54a67b74176dc6f",
-  "h": "2c2f13a92c55b9960d4b"
+  "h": "2c2f13a92c55b9960d4b",
+  "tx": 1795590000000
  },
  {
   "id": "2026-11-25|Aturan Eliz|WLD",
@@ -30097,13 +30201,14 @@
   "keyakinan": "",
   "alasan": "Double Deviation: sweep ke-2 lebih dangkal, tekanan jual melemah, sweep Monday Low lalu reclaim",
   "alert": "",
-  "hasil": "menunggu",
-  "R": "",
+  "hasil": "SL",
+  "R": -1,
   "engine": "0537067ed55fc5be",
   "fwd": 1,
   "seq": 873,
   "prev": "bf6fab055f7030d2934c",
-  "h": "d723a2225a121c704732"
+  "h": "d723a2225a121c704732",
+  "tx": 1795611600000
  },
  {
   "id": "2026-11-25|Aturan Eliz|QQQB",
