@@ -28697,13 +28697,26 @@
   "keyakinan": "",
   "alasan": "sweep Monday Low lalu reclaim, OBV divergence",
   "alert": "Menjelang penutupan weekly (Senin 00:00 UTC).",
-  "hasil": "menunggu",
-  "R": "",
+  "hasil": "SL",
+  "R": -1,
   "engine": "0537067ed55fc5be",
   "fwd": 1,
   "seq": 796,
   "prev": "88bf3a1458ddf259b392",
-  "h": "508814477a1f93884953"
+  "h": "508814477a1f93884953",
+  "tx": 1795878000000,
+  "bm": {
+   "e": 0.0138,
+   "h": "SL",
+   "R": -1,
+   "tx": 1795330800000
+  },
+  "bi": {
+   "e": 0.0138,
+   "h": "SL",
+   "R": -1,
+   "tx": 1795338000000
+  }
  },
  {
   "id": "2026-11-22|Aturan Eliz|FET",
